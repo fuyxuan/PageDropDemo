@@ -1,0 +1,10 @@
+{"total":8,"data": [
+        {"columnname":"頭條","index":0,"id":"0"},
+        {"columnname":"圖片","index":1,"id":"1"},
+        {"columnname":"新聞","index":2,"id":"2"},
+        {"columnname":"體育","index":3,"id":"3"},
+        {"columnname":"國際媒體","index":4,"id":"4"},
+        {"columnname":"娛樂","index":5,"id":"5"},
+        {"columnname":"社會","index":6,"id":"6"},
+        {"columnname":"科技","index":7,"id":"7"}]
+}
